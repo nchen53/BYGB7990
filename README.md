@@ -13,3 +13,4 @@ so i #ask to input the original bill.
 #calculate the total bill.
 
 and print out the statement #out put:
+#yes
